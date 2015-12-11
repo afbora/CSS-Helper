@@ -481,57 +481,60 @@ label.display-block {
 .text-gray {
     color: #e2e2e2;
 }
-.fs10 {
+.fs-10 {
     font-size: 10px;
 }
-.fs11 {
+.fs-11 {
     font-size: 11px;
 }
-.fs12 {
+.fs-12 {
     font-size: 12px;
 }
-.fs13 {
+.fs-13 {
     font-size: 13px;
 }
-.fs14 {
+.fs-14 {
     font-size: 14px;
 }
-.fs15 {
+.fs-15 {
     font-size: 15px;
 }
-.fs16 {
+.fs-16 {
     font-size: 16px;
 }
-.fs18 {
+.fs-18 {
     font-size: 18px;
 }
-.fs24 {
+.fs-24 {
     font-size: 24px;
 }
-.fs28 {
+.fs-28 {
     font-size: 28px;
 }
-.fs36 {
+.fs-36 {
     font-size: 36px;
 }
-.fs48 {
+.fs-48 {
     font-size: 48px;
 }
-.fs64 {
+.fs-64 {
     font-size: 64px;
 }
-.fs72 {
+.fs-72 {
     font-size: 72px;
 }
-.fs50 {
+.fs-50 {
     font-size: 50%;
 }
-.fs75 {
+.fs-75 {
     font-size: 75%;
 }
-.fs85 {
+.fs-85 {
     font-size: 85%;
 }
-.fs125 {
+.fs-125 {
     font-size: 125%;
+}
+.fs-200 {
+    font-size: 200%;
 }
