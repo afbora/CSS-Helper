@@ -5,8 +5,8 @@
 *  Custom helper classes
 *
 *  Author: Ahmet Faruk Bora
-*  Version: 1.4
-*  Latest update: Dec 29, 2015
+*  Version: 1.5
+*  Latest update: Aug 11, 2016
 *
 * ---------------------------------------------------------------------------- */
 .no-edge-top {
@@ -798,6 +798,15 @@ label.display-block {
 .fs-200 {
     font-size: 200%;
 }
+.f-lighter {
+    font-weight: lighter;
+}
+.f-bold {
+    font-weight: bold;
+}
+.f-italic {
+    font-weight: italic;
+}
 .text-blur {
     color: transparent;
     text-shadow: rgba(0, 0, 0, 0.5) 0px 0px 10px;
@@ -809,4 +818,40 @@ label.display-block {
 .text-blur-dark {
     color: transparent;
     text-shadow: rgba(0, 0, 0, 0.95) 0px 0px 10px;
+}
+.line-height-10 {
+    line-height: 10px;
+}
+.line-height-11 {
+    line-height: 11px;
+}
+.line-height-12 {
+    line-height: 12px;
+}
+.line-height-13 {
+    line-height: 13px;
+}
+.line-height-14 {
+    line-height: 14px;
+}
+.line-height-15 {
+    line-height: 15px;
+}
+.line-height-16 {
+    line-height: 16px;
+}
+.line-height-17 {
+    line-height: 17px;
+}
+.line-height-18 {
+    line-height: 18px;
+}
+.line-height-24 {
+    line-height: 24px;
+}
+.line-height-36 {
+    line-height: 36px;
+}
+.line-height-48 {
+    line-height: 48px;
 }
